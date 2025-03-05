@@ -1,10 +1,5 @@
 {
   "mappings": [
-    "/content/news-edge-delivery/:/",
-    "/content/news-edge-delivery/configuration:/.helix/config.json",
-    "/content/news-edge-delivery/metadata:/metadata.json"
-  ],
-  "includes": [
-    "/content/news-edge-delivery/"
+    "/content/news-edge-delivery/:/"
   ]
 }
